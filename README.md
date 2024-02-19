@@ -5,7 +5,7 @@ In this Job we have to demonstrate your abilities creating a span with multiple 
 images, paragraph, #id, class, and other more. 
 
 ### Deployment Link :
-https://danielfernandezdj.github.io/html-3-layouts-recap/
+[https://danielfernandezdj.github.io/html-3-layouts-recap/](https://danielfernandezdj.github.io/html-3-layouts-recap/)
 
 ## I use the resources to get "feedback":
 • W3schools :   https://www.w3schools.com/
