@@ -4,6 +4,9 @@
 In this Job we have to demonstrate your abilities creating a span with multiple elements like header,
 images, paragraph, #id, class, and other more. 
 
+### Deployment Link :
+https://danielfernandezdj.github.io/html-3-layouts-recap/
+
 ## I use the resources to get "feedback":
 • W3schools :   https://www.w3schools.com/
 | • Unsplash :    https://unsplash.com/s/photos/cat

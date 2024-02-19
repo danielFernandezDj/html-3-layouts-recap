@@ -21,14 +21,11 @@ span {
     border-radius: 10px;
     box-shadow: 5px 5px rgba(132, 141, 100, 0.738);
     transition-duration: 0.5s;
-    filter: saturate(0%);
 }
 
 span:hover {
     transform: translate(0px, 20px);
     box-shadow: -5px -5px rgba(132, 141, 100, 0.738);
-    filter: saturate(100%);
-    filter: brightness(110%);
 }
 
 span img {
@@ -54,14 +51,12 @@ span .span-links {
     border-radius: 10px;
     box-shadow: 5px 5px rgba(132, 141, 100, 0.738);
     transition-duration: 0.5s;
-    filter: saturate(0%);
+    filter: brightness(80%);
 }
 
 #pic img:hover {
-    transform: translate(0px, 20px);
-    box-shadow: -5px -5px rgba(132, 141, 100, 0.738);
-    filter: saturate(100%);
     filter: brightness(110%);
+    box-shadow: -5px -5px rgba(132, 141, 100, 0.738);
 }
 
 #boddy-icons {
